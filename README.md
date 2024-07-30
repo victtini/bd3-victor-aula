@@ -1,2 +1,3 @@
 # bd3-victor-aula-
-c
+conteudo somatorio das auilas de banco
+
