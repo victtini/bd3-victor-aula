@@ -1,0 +1,170 @@
+[  
+   {
+  "codigo": "1",
+  "titulo": "Drácula",
+  "autor": "Bram Stoker",
+  "descricao": "Drácula, de Bram Stoker, é um romance gótico que narra a história do conde Drácula e sua tentativa de se mudar da Transilvânia para a Inglaterra, onde busca novas vítimas. A obra é contada através de cartas, diários e recortes de jornais, oferecendo uma perspectiva multifacetada sobre o terror e a sedução.",
+  "imagem": "/livros/dracula.jpg",
+  "valor": 150,
+  "categoria": "Terror"
+  },
+  {
+    "codigo": "10",
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "descricao": "Frankenstein, de Mary Shelley, é um romance gótico que conta a história de Victor Frankenstein, um cientista que cria um ser humano a partir de partes de cadáveres. A obra explora temas de ambição, responsabilidade e a busca por aceitação.",
+    "imagem": "/livros/frankenstein.jpg",
+    "valor": 110,
+    "categoria": "Terror"
+  },
+   
+    {
+      "codigo":"2",
+      "titulo": "O Sol Desvelado",
+      "autor": "Isaac Asimov",
+      "descricao": "Um homem morto, um robô danificado e um crime sem solução. Convocado para uma reunião em Washington, Elijah Baley descobre que foi escalado para investigar um novo crime. Desta vez, porém, o policial deverá deixar a segurança da Terra e enfrentar sua fobia de espaços abertos.",
+      "imagem":"/livros/sol_desvelado.jpg",
+      "valor": 100,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"3",
+      "titulo": "Os Robôs da Alvorada",
+      "autor": "Isaac Asimov",
+      "descricao": "Em meio à mais evoluída colônia humana fora da Terra, ocorre um crime sem precedentes: um robô humaniforme é assassinado, colocando em xeque a reputação de um importante estudioso daquele planeta, único suspeito do crime.",
+      "imagem":"/livros/robos_alvorada.jpg",
+      "valor": 115,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"4",
+      "titulo": "Robôs e Império",
+      "autor": "Isaac Asimov",
+      "descricao": "A humanidade evoluiu muito a partir então, e, para desgosto dos Siderais, o plano delineado por Baley finalmente começa a dar certo. Mas o universo se encontra em um impasse, enquanto cientistas poderosos e vingativos ameaçam destruir a Terra e tudo o que ela representa.",
+      "imagem":"/livros/robos_imperio.jpg",
+      "valor": 180,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"5",
+      "titulo": "Poeira das Estrelas",
+      "autor": "Isaac Asimov",
+      "descricao": "Quando o jovem Biron Farrill descobre que seu pai foi assassinado e que sua própria vida corre perigo, decide partir em uma missão perigosa para encontrar respostas e achar os culpados. Ele não imagina, porém, que sua busca o lançará em uma obscura trama de revoltas, conspirações políticas e espionagem.",
+      "imagem":"/livros/poeira_estrelas.jpg",
+      "valor": 85,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"6",
+      "titulo": "As Correntes do Espaço",
+      "autor": "Isaac Asimov",
+      "descricao":"Em um futuro distante, os poderosos de Sark enriquecem à custa de Florina, um planeta vizinho cujos habitantes são subjugados e trabalham incessantemente para produzir o valioso kyrt, matéria-prima disputada por todos os planetas. Rebelar-se é impensável. Rik é um homem sem memória e sem passado que trabalha em uma fábrica no planeta Florina.",
+      "imagem":"/livros/correntes_espaco.jpg",
+      "valor": 75,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"7",
+      "titulo": "O Senho dos anéis: A Sociendade do Anel",
+      "autor": "J.R.R Tolkien",
+      "descricao": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove seres que formam a Sociedade do Anel.",
+      "imagem":"/livros/sociedade_anel.jpg",
+      "valor": 195,
+      "categoria":"Fantasia Heroica"
+    },
+    {
+      "codigo":"8",
+      "titulo": "O Senho dos anéis: As Duas Torres",
+      "autor": "J.R.R Tolkien",
+      "descricao": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.",
+      "imagem":"/livros/duas_torres.jpg",
+      "valor": 98,
+      "categoria":"Fantasia Heroica"
+    },
+    {
+      "codigo":"9",
+      "titulo": "As Cavernas de Aço",
+      "autor": "Isaac Asimov",
+      "descricao": "As Cavernas de Aço, de Isaac Asimov, é o primeiro romance da consagrada Série dos Robôs, uma das mais populares da ficção científica. A história nasceu de um desafio: Asimov queria provar para seu editor que a ficção científica não era limitada e poderia ser incorporada a qualquer gênero literário, inclusive nos dramas policiais.",
+      "imagem":"/livros/cavernas_aco.jpg",
+      "valor": 120,
+      "categoria":"Ficção Científica"
+    },
+    {
+      "codigo":"8",
+      "titulo": "O Senho dos anéis: O Retorno do Rei",
+      "autor": "J.R.R Tolkien",
+      "descricao":"Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+      "imagem":"/livros/retorno_rei.jpg",
+      "valor": 120,
+      "categoria":"Fantasia Heroica"
+    },
+  
+    {
+      "codigo": "9",
+      "titulo": "It",
+      "autor": "Stephen King",
+      "descricao": "It, de Stephen King, é um romance de terror que narra a história de um grupo de crianças que enfrentam uma entidade maligna que se disfarça de palhaço, chamada Pennywise. O livro alterna entre a infância e a vida adulta dos protagonistas, explorando temas de amizade, medo e superação.",
+      "imagem": "/livros/it.jpg",
+      "valor": 130,
+      "categoria": "Terror"
+    },
+    
+    
+    
+    {
+      "codigo": "11",
+      "titulo": "I Have No Mouth and I Must Scream",
+      "autor": "Harlan Ellison",
+      "descricao": "I Have No Mouth and I Must Scream é uma coleção de contos de Harlan Ellison, onde o conto-título narra a história de um supercomputador que extermina a humanidade, exceto por cinco sobreviventes que ele tortura eternamente. A obra é conhecida por seu tom sombrio e reflexões sobre a condição humana.",
+      "imagem": "/livros/i_have_no_mouth.jpg",
+      "valor": 95,
+      "categoria": "Ficção Científica"
+    },
+    
+    {
+      "codigo": "12",
+      "titulo": "Crise nas Infinitas Terras",
+      "autor": "Marv Wolfman",
+      "descricao": "Crise nas Infinitas Terras é uma série de quadrinhos que revolucionou o universo da DC Comics, abordando a luta entre heróis e vilões em múltiplas realidades. A história explora temas de sacrifício, redenção e a natureza do heroísmo.",
+      "imagem": "/livros/crise_nas_infinitas_terras.jpg",
+      "valor": 150,
+      "categoria": "Quadrinhos"
+    },
+    {
+      "codigo": "15",
+      "titulo": "A Queda da Casa de Usher",
+      "autor": "Edgar Allan Poe",
+      "descricao": "A Queda da Casa de Usher, de Edgar Allan Poe, é um conto de terror gótico que narra a história do narrador anônimo que visita a remota mansão de seu amigo Roderick Usher. Roderick acredita que a casa esteja viva e sua sanidade começa a se deteriorar. Sua irmã gêmea, Madeline, é propensa a entrar em trances semelhantes à morte, enquanto o leitor fica cada vez mais imerso na narrativa suspensa em direção à morte.",
+      "imagem": "/livros/queda_casa_usher.jpg",
+      "valor": 50,
+      "categoria": "Terror Gótico"
+    },
+    {
+      "codigo": "13",
+      "titulo": "O Fantasma da Ópera",
+      "autor": "Gaston Leroux",
+      "descricao": "O Fantasma da Ópera, de Gaston Leroux, é um romance gótico que conta a história do Fantasma, um músico desfigurado que vive nas masmorras da Ópera de Paris. Ele se apaixona pela jovem cantora Christine Daaé e a ensina a cantar, mas sua obsessão e ciúmes a colocam em perigo. A obra explora temas de amor, terror e a busca pela aceitação.",
+      "imagem": "/livros/fantasma_opera.jpg",
+      "valor": 80,
+      "categoria": "Terror Gótico"
+    },
+    {
+      "codigo": "14",
+      "titulo": "The Woman in Black",
+      "autor": "Susan Hill",
+      "descricao": "The Woman in Black, de Susan Hill, é uma história de fantasmas moderna sobre um advogado que encontra um espírito vingativo enquanto liquida um patrimônio em uma mansão isolada. A obra cria uma atmosfera de suspense e medo através do que é omitido, deixando o leitor em constante temor. O verdadeiro terror reside não na mansão assombrada, mas nos abismos mais profundos da mente.",
+      "imagem": "/livros/woman_in_black.jpg",
+      "valor": 60,
+      "categoria": "Terror Gótico"
+    },
+    {
+      "codigo": "16",
+      "titulo": "Carmilla",
+      "autor": "Joseph Sheridan Le Fanu",
+      "descricao": "Carmilla é uma novela gótica que narra a história de Laura, uma jovem que se vê envolvida com a misteriosa e sedutora Carmilla, uma vampira que desperta em Laura sentimentos de amor e terror. A obra é uma das primeiras a apresentar uma vampira feminina, explorando temas de erotismo e a dualidade do desejo.",
+      "imagem": "/livros/carmilla.jpg",
+      "valor": 70,
+      "categoria": "Terror Gótico"
+    }
+  ]
