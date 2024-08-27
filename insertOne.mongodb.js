@@ -5,7 +5,7 @@ const collection = 'livraria';
 use(database);
 //db e um obj 
 //os dedos devem ser passados como json 
-db[collection].insertMany(
+db[collection].insertOne(
     {
         "codigo": "12",
         "titulo": "Crise nas Infinitas Terras",

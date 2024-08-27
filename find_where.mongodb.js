@@ -4,5 +4,6 @@ const collection = 'livraria';
 
 use(database)
 
-//cria ou acessar o banco de dados
-db[collection].find();
+db[collection].find({
+    "categoria":"Terror Gótico"
+});
